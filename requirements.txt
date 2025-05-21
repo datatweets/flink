@@ -1,0 +1,4 @@
+numpy==1.21.4
+apache-flink==1.18.1
+ibis-framework>=8
+kafka-python
