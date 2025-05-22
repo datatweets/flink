@@ -1,6 +1,6 @@
 numpy==1.21.4
 apache-flink==1.18.1
 ibis-framework>=8
-kafka-python
-pyarrow
-pyarrow-hotfix                        
+kafka-python==2.2.8
+pyarrow==11.0.0
+pyarrow-hotfix==0.7
